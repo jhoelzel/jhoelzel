@@ -17,7 +17,7 @@ Projects with:
 - Location Networking, VPN (Wire guard, Software, MS-VPN)
 - Jira / Redmine / Trello
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelzel)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelzel&count_private=true)
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.hoelzel.it/)
