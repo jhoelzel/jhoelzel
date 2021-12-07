@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">I talk to humans and machines and specialize in golang, kubernetes, php and javascript!</h3>
 <p align="center">
-As consulatant and developer I provide services from DevOps to application development and have a history of completing projetcs in time and on budget. I currently foucs on terraform, golang and kubernetes but have seen and worked on multiple languages.
+As consulatant and developer I provide services from DevOps to application development and have a history of completing projetcs on time and in budget. I currently foucs on terraform, golang and kubernetes but have seen and worked on multiple languages.
 
 </p>
 <p align="center">
