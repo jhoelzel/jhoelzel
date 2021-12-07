@@ -24,8 +24,6 @@ Projects with:
 - Jira / Redmine / Trello
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelzel&count_private=true&layout=compact)
-
 Contact:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.hoelzel.it/)
