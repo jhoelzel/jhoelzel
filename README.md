@@ -26,6 +26,7 @@ Projects with:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelzel&count_private=true&layout=compact)
 
+Contact:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.hoelzel.it/)
 
@@ -60,4 +61,11 @@ some of the things I have experience with:
 ![Openwrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-*Hölzel.IT stands for results and integrity.*
+<p align="center">
+   Hölzel.IT stands for results and integrity as well as
+  </p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/jhoelzel/jhoelzel/master/made%20in%20germany.webp?raw=true">
+</p>
+
+
