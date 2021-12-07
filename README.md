@@ -20,5 +20,5 @@ Projects with:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelzel)
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.hoelzel.it/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.hoelzel.it/)
 
