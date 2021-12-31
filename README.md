@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">I talk to humans and machines and specialize in golang, kubernetes and automating everything!</h3>
+<h3 align="center">I talk to humans and machines and specialize in golang, kubernetes as well automating everything!</h3>
 <p align="center">
 As consulatant and developer I provide services from DevOps to application development and have a history of completing projetcs on time and in budget. I currently foucs on terraform, golang and kubernetes but have seen and worked on multiple languages.
-
 </p>
 <p align="center">
-What started out as wordpress agency with server hosting in 2007 has long since evolved into full service consultancy and freelancing services with clients throughout the globe. I started working when Servers where still mostly dedicated, have lived the revolution of virtual servers, made a short stop at serverless tech and am now invested in the kubernetes ecosystem and its containers. My preferred clouds are Azure and AWS , but I have worked on others and also like to tame bare-metal and everything in-between. I love solving difficult issues and have worked on multi cloud deployments before.
+I grew up with the internet, uploaded my first websites to geocities, was tech-admin of a lot of bulletin boards and have been doing professional code since 2003. After trying to build my first start-up in 2006 I realised that they just won’t come only because I built it. Therefore, I have a bachelor economical psychology, which helps me immensely with team leadership but also allows me to view the product from multiple perspectives.
+   
+What started out as WordPress ans ASP.NET agency with server hosting in 2007 has long since evolved into full service consultancy and freelancing services with clients throughout the globe. I started working when Servers where still mostly dedicated, have lived the revolution of virtual servers, made a short stop at serverless tech and am now invested in the kubernetes ecosystem and its containers. My preferred clouds are Azure and AWS, but I have worked on others and also like to tame bare-metal and everything in-between. I love solving difficult issues and have worked on multi cloud deployments before.
 </p>
 <p align="center">
 All this makes me perfect if you are looking for someone with seniority, that is flexible, plays well with others but also likes to get his hands dirty. If you would like to see what I have been up to, please check the projects section on LinkedIn.
