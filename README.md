@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johannes</h1>
+
 **I talk to humans and machines and specialize in golang, kubernetes as well as automating everything!**
 
 As consultant and developer I provide services from DevOps to application development and have a history of completing projects on time and in budget. **I currently focus on kubernetes, golang and terraform** but have seen and worked on multiple environments.
