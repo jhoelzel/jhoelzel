@@ -15,3 +15,4 @@ jobs:
           with:
             # Replace this URL with your rss feed URL/s
             feed_list: "https://www.hoelzel.it/feed.xml"
+            template: '<table style="width:100%"><tr><td style="width:150px"><a href="$url"><img width="140px" src="$postImage"></a></td><td><a href="$url">$title</a> | $date <br> $description...</td></tr></table>$newline'
