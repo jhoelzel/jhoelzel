@@ -23,6 +23,10 @@ Projects with:
 - Location Networking, VPN (Wire guard, Software, MS-VPN)
 - Jira / Redmine / Trello
 
+You can find my blog here:
+
+<https://www.hoelzel.it/>
+
 
 Contact:
 
