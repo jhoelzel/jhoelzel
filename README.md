@@ -26,6 +26,11 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Redeploying an Argo-CD Autopilot project](www.hoelzel.it/argocd/2022/03/23/redeploy-argocd-autopilot-project.html)
+- [Remapping the Office key](www.hoelzel.it/cli/2022/03/12/remap-the-office-keys.html)
+- [ZSH slow response times](www.hoelzel.it/cli/2022/03/07/zsh-slow-in-big-projects.html)
+- [Configuring Opsgenie in the EU](www.hoelzel.it/monitoring/2022/02/18/opsgenie-prometheus-europe.html)
+- [Finding big files with find](www.hoelzel.it/hints/2022/02/03/fun-with.find.html)
 <!-- BLOG-POST-LIST:END -->
 
 You can find my blog here
