@@ -26,6 +26,7 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2022-07-05` | [Update the timezone in a running alpine container](https://www.hoelzel.it/helm/2022/07/05/update-timezone-alpine-container.html)  
 - `2022-04-16` | [Generating kustomize overlays from helm charts](https://www.hoelzel.it/helm/2022/04/16/generate-kustomize-from-helm-chart.html)  
 - `2022-03-23` | [Redeploying an Argo-CD Autopilot project](https://www.hoelzel.it/argocd/2022/03/23/redeploy-argocd-autopilot-project.html)  
 - `2022-03-12` | [Remapping the Office key](https://www.hoelzel.it/cli/2022/03/12/remap-the-office-keys.html)  
@@ -35,7 +36,6 @@ Projects with:
 - `2022-02-01` | [Getting the ipv4 and ipv6 of your traefik load balancer](https://www.hoelzel.it/terraform/2022/02/01/getting-ipv4-and-ipv6-from-traefik.html)  
 - `2022-02-01` | [Patching YAML with kustomize](https://www.hoelzel.it/kubernetes/2022/02/01/patching-yaml-with-customize.html)  
 - `2022-01-30` | [Only allowing cloudflare servers ips for your server](https://www.hoelzel.it/hints/2022/01/30/only-allow-cloudflare.html)  
-- `2022-01-30` | [Using kubectl with more for easy scrolling](https://www.hoelzel.it/hints/2022/01/30/using-kubectl-with-more.html)  
 
 <!-- BLOG-POST-LIST:END -->
 
