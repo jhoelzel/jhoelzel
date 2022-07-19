@@ -1,8 +1,7 @@
 name: Latest blog post workflow
 on:
     schedule: # Run workflow automatically
-      # This will make it run every hour
-      - cron: '0 0 * * *' 
+      - cron: "0 3 * * 1,3,5" # Runs at 03:00 AM (UTC) every Monday, Wednesday, and Friday (Check https://crontab.guru/)
      # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
     workflow_dispatch: 
 jobs:
