@@ -26,6 +26,7 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2023-04-01` | [Comparing k3s with Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)  
 - `2022-09-01` | [Compare kustomize overlays](https://www.hoelzel.it/cli/2022/09/01/compare-kustomize-overlays.html)  
 - `2022-08-06` | [Restarting a container without downtime](https://www.hoelzel.it/kubectl/2022/08/06/restart-pod-without-downtime.html)  
 - `2022-08-06` | [Using exitcodes to wait for infra to boot](https://www.hoelzel.it/cli/2022/08/06/using-exitcodes-to-wait-for-infra.html)  
@@ -35,7 +36,6 @@ Projects with:
 - `2022-03-12` | [Remapping the Office key](https://www.hoelzel.it/cli/2022/03/12/remap-the-office-keys.html)  
 - `2022-03-07` | [ZSH slow response times](https://www.hoelzel.it/cli/2022/03/07/zsh-slow-in-big-projects.html)  
 - `2022-02-18` | [Configuring Opsgenie in the EU](https://www.hoelzel.it/monitoring/2022/02/18/opsgenie-prometheus-europe.html)  
-- `2022-02-03` | [Finding big files with find](https://www.hoelzel.it/hints/2022/02/03/fun-with.find.html)  
 
 <!-- BLOG-POST-LIST:END -->
 
