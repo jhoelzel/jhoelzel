@@ -24,6 +24,7 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2023-04-15` | [Simplifying Kubernetes Developement with Rancher Desktop](https://www.hoelzel.it/kubernetes/2023/04/15/rancher-desktop.html)  
 - `2023-04-12` | [Controllers vs. Operators and when to use which](https://www.hoelzel.it/kubernetes/2023/04/12/Kubernetes-Operators-vs-Controller.html)  
 - `2023-04-01` | [Comparing k3s with Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)  
 - `2023-03-21` | [Unleashing Kubernetes Full Potential with GitOps and ArgoCD](https://www.hoelzel.it/kubernetes/2023/03/21/gitops-argocd-kubernetes-a-match-made-in-heaven.html)  
@@ -33,7 +34,6 @@ Projects with:
 - `2022-08-06` | [Using exitcodes to wait for infra to boot](https://www.hoelzel.it/cli/2022/08/06/using-exitcodes-to-wait-for-infra.html)  
 - `2022-07-05` | [Update the timezone in a running alpine container](https://www.hoelzel.it/helm/2022/07/05/update-timezone-alpine-container.html)  
 - `2022-04-16` | [Generating kustomize overlays from helm charts](https://www.hoelzel.it/helm/2022/04/16/generate-kustomize-from-helm-chart.html)  
-- `2022-03-23` | [Redeploying an Argo-CD Autopilot project](https://www.hoelzel.it/argocd/2022/03/23/redeploy-argocd-autopilot-project.html)  
 
 <!-- BLOG-POST-LIST:END -->
 
