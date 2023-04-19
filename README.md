@@ -24,6 +24,7 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2023-04-17` | [Kubernetes SSO with OIDC and GitLab in k3s](https://www.hoelzel.it/kubernetes/2023/04/17/k3s-gitlab-oidc.html)  
 - `2023-04-16` | [Taming Traffic Spikes in Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/16/Kubernetes-resource-limits.html)  
 - `2023-04-15` | [Simplifying Kubernetes Developement with Rancher Desktop](https://www.hoelzel.it/kubernetes/2023/04/15/rancher-desktop.html)  
 - `2023-04-12` | [Controllers vs. Operators and when to use which](https://www.hoelzel.it/kubernetes/2023/04/12/Kubernetes-Operators-vs-Controller.html)  
@@ -33,7 +34,6 @@ Projects with:
 - `2022-09-01` | [Compare kustomize overlays](https://www.hoelzel.it/cli/2022/09/01/compare-kustomize-overlays.html)  
 - `2022-08-06` | [Restarting a container without downtime](https://www.hoelzel.it/kubectl/2022/08/06/restart-pod-without-downtime.html)  
 - `2022-08-06` | [Using exitcodes to wait for infra to boot](https://www.hoelzel.it/cli/2022/08/06/using-exitcodes-to-wait-for-infra.html)  
-- `2022-07-05` | [Update the timezone in a running alpine container](https://www.hoelzel.it/helm/2022/07/05/update-timezone-alpine-container.html)  
 
 <!-- BLOG-POST-LIST:END -->
 
