@@ -24,6 +24,8 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2023-05-04` | [Fixing a Kubernetes Namespace Stuck in Terminating State](https://www.hoelzel.it/kubernetes/2023/05/04/fix-stuck-namespaces.html)  
+- `2023-05-01` | [Kubernetes Headless Services](https://www.hoelzel.it/kubernetes/2023/05/01/Headless-Services.html)  
 - `2023-04-25` | [Embracing the Kubernetes Downward API](https://www.hoelzel.it/kubernetes/2023/04/25/Pod-info-mounted.html)  
 - `2023-04-17` | [Kubernetes SSO with OIDC and GitLab in k3s](https://www.hoelzel.it/kubernetes/2023/04/17/k3s-gitlab-oidc-copy.html)  
 - `2023-04-16` | [Taming Traffic Spikes in Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/16/Kubernetes-resource-limits.html)  
@@ -32,8 +34,6 @@ Projects with:
 - `2023-04-01` | [Comparing k3s with Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)  
 - `2023-03-21` | [Unleashing Kubernetes Full Potential with GitOps and ArgoCD](https://www.hoelzel.it/kubernetes/2023/03/21/gitops-argocd-kubernetes-a-match-made-in-heaven.html)  
 - `2023-03-10` | [GitOps and Agile … Like Bread and Butter](https://www.hoelzel.it/gitops/2023/03/10/GitOps-and-Agile-Like-Bread-and-Butter.html)  
-- `2022-09-01` | [Compare kustomize overlays](https://www.hoelzel.it/cli/2022/09/01/compare-kustomize-overlays.html)  
-- `2022-08-06` | [Restarting a container without downtime](https://www.hoelzel.it/kubectl/2022/08/06/restart-pod-without-downtime.html)  
 
 <!-- BLOG-POST-LIST:END -->
 
