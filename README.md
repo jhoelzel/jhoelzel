@@ -10,14 +10,22 @@ I grew up with the internet, uploaded my first websites to geocities, was tech-a
 
 All this makes me perfect if you are looking for someone with seniority, that is flexible, plays well with others but also likes to get his hands dirty. If you would like to see what I have been up to, please check the projects section on LinkedIn.
 
-Projects with:
-- Fullstack (Frontend, Backend, APIs, Daemons,cli)
-- Favorites: Golang, JavaScript, PHP, C#
-- Cloud: AWS, Azure, Hetzner, OVH, Bare-Metal
+As consultant and developer I provide services from DevOps, Platform engineering or Project leadership to application development  and have a history of completing projects on time and in budget. 
+
+Since 2018 I focus on Kubernetes / GitOps / DevOps / Golang  but have seen and worked on multiple environments since 2003.
+
+I build and consult for kubernetes platforms end to end, from ArgoCD to Zalandos Postgres Operator and have build many clusters from scratch on bare-metal and the cloud.
+
+My preferred clouds are Azure and AWS, but I have worked on others and also really like to tame bare-metal and everything in-between. When I have the chance, I build my kubernetes clusters from scratch and love solving difficult issues like working on multi cloud deployments or ensuring that the highest standards of cyber security are set and enforced.
+
+Projects with: 
+- Fullstack (Frontend, Backend, APIs, Daemons, Operators, Infrastructure-Orchestration)
+- Favorites:  Golang, JavaScript, PHP, C#
+- Cloud: AWS, Azure, Hetzner, OVH, Bare-Metal, Digital Ocean
 - Databases: MySQL , MSSQL, PostgreSQL, TimeScaleDB, Redis
-- DevOps: Ansible, Puppet, Terraform, Argo CD, Rancher
-- Server: Kubernetes, Docker (Swarm), Bare-Metal , Fargate, Serverless
-- SEO: Campaigns / Tracking / Optimization
+- DevOps: Ansible, Puppet, Terraform, Argo CD, Rancher, External-DNS, Kube-Prometheus, Calico, Cert-Manager, Lens, Kubelogin, Teleport
+- Server: Kubernetes, k3s, K3OS, RKE2, Harvester,  Docker (Swarm), Bare-Metal , Fargate, Serverless
+- SEO: Campaigns / Tracking / Optimization 
 - Location Networking, VPN (Wire guard, Software, MS-VPN)
 - Jira / Redmine / Trello
 
