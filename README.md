@@ -32,16 +32,16 @@ Projects with:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2024-09-05` | [All roads will lead you to Azure](https://www.hoelzel.it/compliance/2024/09/05/All-roads-lead-to-azure-eventually.html)  
+- `2024-09-05` | [Gaining Total Control of Your Kubernetes Nodes with Custom Images](https://www.hoelzel.it/kubernetes/2024/09/05/kubernetes-custom-images.html)  
+- `2024-09-02` | [Building Resilience with kube-probesim](https://www.hoelzel.it/kubernetes/2024/09/02/kube-probesim.html)  
+- `2024-09-01` | [go_wait_for_k8s](https://www.hoelzel.it/kubernetes/2024/09/01/go-wait-for-k8s.html)  
+- `2024-09-01` | [Kuberntes Access Proxies](https://www.hoelzel.it/kubernetes/2024/09/01/k8s-access-proxy.html)  
 - `2024-08-31` | [Streamlining Helm Chart Management with Argo Helm Versioner](https://www.hoelzel.it/devops/2024/08/31/argo-helm-versioner.html)  
 - `2023-05-08` | [Demystifying etcd](https://www.hoelzel.it/kubernetes/2023/05/08/what-is-etcd.html)  
 - `2023-05-04` | [Fixing a Kubernetes Namespace Stuck in Terminating State](https://www.hoelzel.it/kubernetes/2023/05/04/fix-stuck-namespaces.html)  
 - `2023-05-01` | [Kubernetes Headless Services](https://www.hoelzel.it/kubernetes/2023/05/01/Headless-Services.html)  
 - `2023-04-25` | [Embracing the Kubernetes Downward API](https://www.hoelzel.it/kubernetes/2023/04/25/Pod-info-mounted.html)  
-- `2023-04-17` | [Kubernetes SSO with OIDC and GitLab in k3s](https://www.hoelzel.it/kubernetes/2023/04/17/k3s-gitlab-oidc-copy.html)  
-- `2023-04-16` | [Taming Traffic Spikes in Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/16/Kubernetes-resource-limits.html)  
-- `2023-04-15` | [Simplifying Kubernetes Developement with Rancher Desktop](https://www.hoelzel.it/kubernetes/2023/04/15/rancher-desktop.html)  
-- `2023-04-12` | [Controllers vs. Operators and when to use which](https://www.hoelzel.it/kubernetes/2023/04/12/Kubernetes-Operators-vs-Controller.html)  
-- `2023-04-01` | [Comparing k3s with Kubernetes](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)  
 
 <!-- BLOG-POST-LIST:END -->
 
